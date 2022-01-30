@@ -25,6 +25,11 @@ Module 11
 * After filter search is complete the viewers can also re-initialize the webpage by clicking navbar at the top left corner.![image](https://user-images.githubusercontent.com/93439516/151713954-ec5bb30b-eb5d-4d4d-b277-8bdf5676217c.png)
 
 ### Summary
-* One drawback for this webpage is that in order for viewers to use filter search they have to first scroll down to look at dates, city, state, country and shape available. For example if a viewer wanted to search for UFO sighting by state Ohio they have to scroll down to see it that state is available before using filter search.
+* One drawback for this webpage is that in order for viewers to use filter search they have to first scroll down to look at all the available dates, cities, states, countrys and shapes. For example if a viewer wanted to search for UFO sighting by state Ohio they have to scroll down to see it that state is available before using filter search.
 * Solution for this drawback is to add drop down-menu for available searches for all filters. For instances if a veiwer wanted to filter search by state they can click on state filter and a drop down menu will appear with all the available states in the data.
 * There should also be clear filters button at the bottem of the "Filter Search" section so viewers and clear there searches and start anew.
+
+### Resources 
+* Data Source: UFO data
+* Images: nasa.jpg
+* Software: HTML/CSS, JavaScript, Visual Studio Code, BootStrap.
