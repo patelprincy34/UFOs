@@ -1,16 +1,16 @@
 # UFOs
 Module 11
 ### Project Overview
-###### The purpose of the project is to create an interactive webpage that accepts user input and changes to provide information on UFO sightings. Users will be able to filter the UFO sightings table based on many parameters such as the event date, place, state, country, and shape in order to complete their research.
+##### The purpose of the project is to create an interactive webpage that accepts user input and changes to provide information on UFO sightings. Users will be able to filter the UFO sightings table based on many parameters such as the event date, place, state, country, and shape in order to complete their research.
 
 ### Results 
 #### Link to UFO Sightings Webpage: https://patelprincy34.github.io/UFOs/
-###### The webpage for UFO Sightings has been created. This is the first thing the viewers will see upon entering the webpage:
+##### The webpage for UFO Sightings has been created. This is the first thing the viewers will see upon entering the webpage:
 ![image](https://user-images.githubusercontent.com/93439516/151713076-65b70c17-dada-4fd8-9383-e9eb3b8ff809.png)
-###### The webpage also includes "Filter Search" section so the viewers can interact with the website. 
+##### The webpage also includes "Filter Search" section so the viewers can interact with the website. 
 ![image](https://user-images.githubusercontent.com/93439516/151713271-577e15a8-43ff-44b0-8982-6040032d5cfd.png)
 
-###### Viewers can Filter Search by:
+##### Viewers can Filter Search by:
 * Date ![image](https://user-images.githubusercontent.com/93439516/151713307-0fecd4bf-d793-47f5-a449-baf560ef150b.png)
 
 * City![image](https://user-images.githubusercontent.com/93439516/151713374-a7255dce-2db0-4ed6-9141-f8ea228c7137.png)
