@@ -1,6 +1,6 @@
 # UFOs
-Module 11
-### Project Overview
+
+## Project Overview
 ##### The purpose of the project is to create an interactive webpage that accepts user input and changes to provide information on UFO sightings. Users will be able to filter the UFO sightings table based on many parameters such as the event date, place, state, country, and shape in order to complete their research.
 
 ### Results 
